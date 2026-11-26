@@ -45,5 +45,8 @@ int main()
     {
         printf("\nTf are you doing?");
     }
+printf("\n\nPress Enter to exit...");
+getchar();
+getchar();
     return 0;
 }
